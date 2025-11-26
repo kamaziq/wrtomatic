@@ -59,7 +59,6 @@ Hourly example:
 ## Banner Format
 When updates are available, your banner will append separator with available updates count:
 ```
-
 -----------------------------------------------------
  5 packages can be updated
 -----------------------------------------------------
